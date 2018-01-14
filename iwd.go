@@ -191,6 +191,6 @@ func main() {
 	}
 
 	drawGeoTiff(buffer, w, h, geotransform)
-	drawRaster(buffer, w, h, "idw.png")
+	drawRaster(buffer, w, h, "iwd.png")
 
 }
